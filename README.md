@@ -22,7 +22,7 @@
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-mehrabi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanmehrabi.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail--red?logo=Gmail&logoColor=white)](mailto:ramanmehrabi.dev@gmail.com)
 
 ---
 
