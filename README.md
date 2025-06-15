@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raman Mehrabi 👋</h1>
 
 <p align="center">
-  A passionate Front-End Developer & Web Designer from Iran 🇮🇷
+  A passionate Front-End Developer & Web Designer from Iran
 </p>
 
 ---
